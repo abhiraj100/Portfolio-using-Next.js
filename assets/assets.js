@@ -78,23 +78,23 @@ export const assets = {
 
 export const workData = [
   {
-    title: "Frontend project",
-    description: "Web Design",
+    title: "HealthHive",
+    description: "MERN Stack",
     bgImage: "/work-1.png",
   },
   {
-    title: "Geo based app",
-    description: "Mobile App",
+    title: "TM-FocusFlow",
+    description: "MERN Stack",
     bgImage: "/work-2.png",
   },
   {
-    title: "Photography site",
-    description: "Web Design",
+    title: "QuickCart",
+    description: "Full Stack",
     bgImage: "/work-3.png",
   },
   {
-    title: "UI/UX designing",
-    description: "UI/UX Design",
+    title: "SnapStock",
+    description: "Front-end",
     bgImage: "/work-4.png",
   },
 ];
