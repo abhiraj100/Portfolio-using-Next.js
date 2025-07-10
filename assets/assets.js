@@ -104,27 +104,27 @@ export const serviceData = [
     icon: assets.web_icon,
     title: "Web design",
     description: "Web development is the process of building, programming...",
-    link: "",
+    link: "https://www.bing.com/search?q=Web+design+documentation&PC=U316&FORM=CHROMN",
   },
   {
     icon: assets.mobile_icon,
     title: "Mobile app",
     description:
       "Mobile app development involves creating software for mobile devices...",
-    link: "",
+    link: "https://www.bing.com/search?q=Mobile%20app%20documentation&qs=n&form=QBRE&sp=-1&lq=0&pq=mobile%20app%20documentation&sc=12-24&sk=&cvid=1A1B7EA40BDE46F495FB9EA3DA8DD2F5",
   },
   {
     icon: assets.ui_icon,
     title: "UI/UX design",
     description:
       "UI/UX design focuses on creating a seamless user experience...",
-    link: "",
+    link: "https://www.bing.com/search?q=UI%2FUX%20design%20documentation&qs=n&form=QBRE&sp=-1&lq=0&pq=ui%2Fux%20design%20documentation&sc=17-26&sk=&cvid=245273A056E247CD9F3C130E4083BCB1",
   },
   {
     icon: assets.graphics_icon,
     title: "Graphics design",
     description: "Creative design solutions to enhance visual communication...",
-    link: "",
+    link: "https://www.bing.com/search?q=Graphics%20design%20documentation&qs=n&form=QBRE&sp=-1&lq=0&pq=graphics%20design%20documentation&sc=10-29&sk=&cvid=1558B77F2F1748B5AB78A3FC87C989D9",
   },
 ];
 
